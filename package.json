@@ -3,6 +3,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
+    "info": "next info",
     "start": "next start"
   },
   "dependencies": {
